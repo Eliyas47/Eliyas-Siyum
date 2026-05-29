@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Logs & cache
+*.log
+.npm
+.vite
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Duplicate nested copy (if present from download)
+Personal-portfolio-main/
