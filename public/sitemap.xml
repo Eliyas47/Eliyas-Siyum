@@ -7,7 +7,7 @@
 
   <!-- Home Page - Highest Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/</loc>
+    <loc>https://eliyas-siyum.vercel.app/</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -15,7 +15,7 @@
 
   <!-- About Page - High Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/about</loc>
+    <loc>https://eliyas-siyum.vercel.app/about</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -23,7 +23,7 @@
 
   <!-- Projects Page - Very High Priority (Portfolio) -->
   <url>
-    <loc>https://niladri1.vercel.app/projects</loc>
+    <loc>https://eliyas-siyum.vercel.app/projects</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -31,7 +31,7 @@
 
   <!-- Skills Page - High Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/skills</loc>
+    <loc>https://eliyas-siyum.vercel.app/skills</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -39,7 +39,7 @@
 
   <!-- Experience Page - High Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/experience</loc>
+    <loc>https://eliyas-siyum.vercel.app/experience</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -47,7 +47,7 @@
 
   <!-- Education Page - Medium Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/education</loc>
+    <loc>https://eliyas-siyum.vercel.app/education</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
@@ -55,7 +55,7 @@
 
   <!-- Certificates Page - Medium Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/certificates</loc>
+    <loc>https://eliyas-siyum.vercel.app/certificates</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -63,7 +63,7 @@
 
   <!-- Contact Page - Medium Priority -->
   <url>
-    <loc>https://niladri1.vercel.app/contact</loc>
+    <loc>https://eliyas-siyum.vercel.app/contact</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>

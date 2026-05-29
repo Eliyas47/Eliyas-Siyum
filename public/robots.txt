@@ -1,4 +1,4 @@
-# robots.txt for https://niladri1.vercel.app/
+# robots.txt for https://eliyas-siyum.vercel.app/
 # Optimized for maximum SEO crawling
 
 # Allow all search engines
@@ -36,4 +36,4 @@ Allow: /favicon.ico
 Allow: /*.pdf$
 
 # Sitemap
-Sitemap: https://niladri1.vercel.app/sitemap.xml
+Sitemap: https://eliyas-siyum.vercel.app/sitemap.xml

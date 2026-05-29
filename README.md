@@ -23,10 +23,26 @@
 
 ---
 
-curl -XGET -H "Content-type: application/json" \
-     -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiVmxIc1pGV2pKSEdvb3hKRTl4UlZFR25qcnR5cmE0aE4iLCJleHAiOjE5MzU0MzEzNzgsImlhdCI6MTc3NzY2NDk3OCwianRpIjoiMWRlOTc2NTctODQwYy00MmVmLWEyN2YtY2MwYTIwNzJkZGE0In0.j2Ov3hfYN_Zkvx70h-Wm2SQRkeQtg9kHuFWI5oFpiBE" \
-     'https://api.afromessage.com/api/send?from=e80ad9d8-adf3-463f-80f4-7c4b39f7f164&to=+251910937423&message=hello
+## 🚀 Deploy (GitHub + Vercel)
 
+### Push to GitHub
+
+```bash
+git remote add origin git@github.com:Eliyas47/Eliyas-Siyum.git
+git branch -M main
+git push -u origin main
+```
+
+If SSH fails, use HTTPS: `git remote set-url origin https://github.com/Eliyas47/Eliyas-Siyum.git`
+
+### Deploy on Vercel
+
+1. Go to [vercel.com](https://vercel.com) and sign in with GitHub.
+2. **Add New Project** → import **Eliyas47/Eliyas-Siyum**.
+3. Framework: **Vite** (auto-detected). Build: `npm run build`. Output: `dist`.
+4. Click **Deploy**. After deploy, set your live URL in `src/config/site.js` if it differs from `https://eliyas-siyum.vercel.app`.
+
+---
 
 ## 🌟 Overview
 
