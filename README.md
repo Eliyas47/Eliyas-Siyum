@@ -2,7 +2,6 @@
 
 # Niladri Chatterjee — Portfolio 🚀
 
-[![Website](https://img.shields.io/website?label=Live%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fniladri1.vercel.app)](https://niladri1.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/niladri-1?logo=github&style=for-the-badge)](https://github.com/niladri-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4000%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niladri1)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://niladri1.vercel.app)
